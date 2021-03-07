@@ -4,8 +4,7 @@
   export let background = "#307ad5";
   export let color = "white";
   export let buttonColor = "#fdc735";
-  export let src =
-    "https://myfunscience.com/wp-content/uploads/myfunscience-logo-circle.jpg";
+  export let src = "";
 </script>
 
 <article style="background:{background};color:{color};">
